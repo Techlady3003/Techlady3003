@@ -51,7 +51,7 @@ I’m not just learning tools, I’m learning how to think with data, ask better
 ## 🎯 Goals
 - 🎯 Become a confident Data Analyst  
 - 💡 Use data to support better decisions and insights  
-- 🚀 Learning today, Leading tomorrow 
+- 🚀Keep learning, building, and sharing my growth journey  
 
 ---
 
@@ -61,5 +61,5 @@ I’m not just learning tools, I’m learning how to think with data, ask better
 
 
 
-✨ Growth is not linear—but it is intentional.  
-🌱 *Learning today, leading tomorrow.*
+✨ Growth is not linear but it is intentional.  
+🌱 Learning today, leading tomorrow.
