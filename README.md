@@ -1,6 +1,6 @@
 # Hi, I’m Hafsat 👋
 
-🌱 Aspiring Data Analyst  
+🌱 A Data Analyst  
 ✨ Creator of  **Growth Diaries with Hafsat:** sharing my journey of learning, reflection, and growth through data and beyond  
 
 ---
